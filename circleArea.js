@@ -1,3 +1,4 @@
+// Patika.dev linkim --> https://app.patika.dev/ailker
 
 const arguments = process.argv.slice(2);
 
